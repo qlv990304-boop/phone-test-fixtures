@@ -1,0 +1,32 @@
+country,callingCode,fixture,safetyClassification,evidenceUrl
+United States,+1,+12025550123,Uses the reserved 555-01xx fictional block,https://nanpa.com/numbering/555-line-numbers
+Canada,+1,+14165550123,Uses the reserved 555-01xx fictional block,https://cnac.ca/about/mandate.htm
+United Kingdom,+44,+447700900123,Uses Ofcom's 07700 900xxx drama range,https://ofcom.org.uk/phones-and-broadband/phone-numbers/numbers-for-drama
+Australia,+61,+61491570006,Example is from ACMA's published creative-work list,https://acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works
+China,+86,+8613012345678,Structural example; may coincide with an assigned number,https://nac.miit.gov.cn/
+India,+91,+919876543210,Structural example; may coincide with an assigned number,https://dot.gov.in/
+Germany,+49,+4915112345678,Structural example; may coincide with an assigned number,https://bundesnetzagentur.de/EN/Areas/Telecommunications/Numbering/start.html
+France,+33,+33639981234,Structural example; review current Arcep rules,https://arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/la-numerotation.html
+Japan,+81,+819012345678,Structural example; may coincide with an assigned number,https://itu.int/en/ITU-T/inr/forms/Pages/dialling.aspx
+Brazil,+55,+5511987654321,Structural example; may coincide with an assigned number,https://gov.br/anatel/pt-br/regulado/numeracao/tabela-servico-movel-celular
+Mexico,+52,+525512345678,Structural example; may coincide with an assigned number,https://ift.org.mx/comunicacao-y-medios/marcacion-a-10-digitos
+Spain,+34,+34612345678,Structural example; may coincide with an assigned number,https://cnmc.es/sectores-que-regulamos/telecomunicaciones/registros-de-numeracion
+Italy,+39,+393123456789,Structural example; may coincide with an assigned number,https://agcom.it/competenze/comunicazioni-elettroniche/reti/numerazione/piano-di-numerazione
+Netherlands,+31,+31612345678,Structural example; may coincide with an assigned number,https://acm.nl/nl/telefoonnummers/nummers-en-codes-voor-telecomaanbieders
+Sweden,+46,+46701234567,Structural example; may coincide with an assigned number,https://pts.se/en/internet-and-telephony/numbering-and-addressing/
+Switzerland,+41,+41791234567,Structural example; may coincide with an assigned number,https://bakom.admin.ch/en/numbering-and-telephony
+Singapore,+65,+6591234567,Structural example; may coincide with an assigned number,https://imda.gov.sg/-/media/imda/files/regulation-licensing-and-consultations/frameworks-and-policies/numbering/national-numbering-plan-and-allocation-process/2chapter_2_the_national_numbering_scheme.pdf
+South Korea,+82,+821012345678,Structural example; may coincide with an assigned number,https://itu.int/en/ITU-T/inr/forms/Pages/dialling.aspx
+New Zealand,+64,+64211234567,Structural example; may coincide with an assigned number,https://nad.org.nz/resources
+United Arab Emirates,+971,+971501234567,Structural example; may coincide with an assigned number,https://tdra.gov.ae/-/media/About/regulations-and-ruling/EN/National-Number-Plan-pdf.ashx
+Indonesia,+62,+6281234567890,Structural example; may coincide with an assigned number,https://jdih.komdigi.go.id/produk_hukum/view/id/768/t/peraturan%2Bmenteri%2Bkomunikasi%2Bdan%2Binformatika%2Bnomor%2B5%2Btahun%2B2021
+Pakistan,+92,+923001234567,Structural example; may coincide with an assigned number,https://ituob.org/issues/1233-en/
+Nigeria,+234,+2348031234567,Structural example; may coincide with an assigned number,https://ncc.gov.ng/sites/default/files/2024-11/Standards-National_Numbering_Plan_202210.pdf
+Bangladesh,+880,+8801711123456,Structural example; may coincide with an assigned number,https://btrc.gov.bd/sites/default/files/files/btrc.portal.gov.bd/page/70331228_9816_40ea_8d59_f2baf756d078/national_numbering_plan_2005_0.pdf
+Russia,+7,+79001234567,Structural example; may coincide with an assigned number,https://itu.int/oth/T02020000AD/en
+Vietnam,+84,+84912345678,Structural example; may coincide with an assigned number,https://itu.int/dms_pub/itu-t/oth/02/02/T02020000E40005PDFE.pdf
+Philippines,+63,+639171234567,Structural example; may coincide with an assigned number,https://ntc.gov.ph/wp-content/uploads/2015/10/LawsRulesRegulations/MemoCirculars/MC1994/MC-11-5-94.pdf
+Turkey,+90,+905321234567,Structural example; may coincide with an assigned number,https://btk.gov.tr/genel-numaralandirma-plani
+Saudi Arabia,+966,+966501234567,Structural example; may coincide with an assigned number,https://cst.gov.sa/en/about/Numbering
+Egypt,+20,+201012345678,Structural example; may coincide with an assigned number,https://itu.int/dms_pub/itu-t/oth/02/02/T020200003E0004PDFE.pdf
+Poland,+48,+48501123456,Structural example; may coincide with an assigned number,https://numeracja.uke.gov.pl/pl
