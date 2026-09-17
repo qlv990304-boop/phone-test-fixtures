@@ -1,0 +1,7 @@
+country,input,region,expectedE164,ruleUnderTest
+Italy,"312 345 6789",IT,+393123456789,"Keep all ten mobile digits; do not generalize zero removal to geographic numbers."
+Russia,"8 900 123-45-67",RU,+79001234567,"Replace the domestic 8 with +7 and retain ten national digits."
+Brazil,"(11) 98765-4321",BR,+5511987654321,"Preserve the two-digit area code and nine-digit mobile subscriber number."
+Bangladesh,"01711-123456",BD,+8801711123456,"Remove the domestic zero before +880."
+France,"06 39 98 12 34",FR,+33639981234,"Remove the domestic trunk zero before +33."
+India,"98765 43210",IN,+919876543210,"Add +91 to the complete ten-digit national value."
